@@ -58,7 +58,7 @@ void gameResults(){
 }
 
 }
-//Lanching The Game
+//Launching The Game
 public class GusserGame {
 	
 	public static void main(String args[])throws IOException{
